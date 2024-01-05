@@ -1,0 +1,27 @@
+df-messenger {
+    /* Bubble background color for agent messages. */
+    --df-messenger-bot-message: #4300fc94;
+    /* Color for the floating button and the titlebar of the chat dialog. */
+    --df-messenger-button-titlebar-color: #4300fc; 	
+    /* Font color for the title in the titlebar. */
+    --df-messenger-button-titlebar-font-color: #ffffff;	
+    /* Color for the chat dialog background. */
+    --df-messenger-chat-background-color: #ffffff;	
+    /* Font color for messages. */
+    --df-messenger-font-color: #ffffff;	
+    /* Background color for the text input box. */
+    --df-messenger-input-box-color: #ffffff;	
+    /* Font color for the text input box. */
+    --df-messenger-input-font-color: #000000;	
+    /* Font color for placeholder text in text input box. */
+    --df-messenger-input-placeholder-font-color: #999999;	
+    /* Color of the close icon in the closed chat view. */
+    --df-messenger-minimized-chat-close-icon-color: #ffffff;	
+    /* Color of the send icon in the text input box. */
+    --df-messenger-send-icon: #4300fc;	
+    /* Bubble background color for user messages. */
+    --df-messenger-user-message: #4300fc;	
+  }
+  div.chat-wrapper{
+    margin-top: 3000px !important;
+  }
